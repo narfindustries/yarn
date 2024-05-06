@@ -1,0 +1,585 @@
+{
+  "addrs": {
+    "array_catch": [
+      "0x176d25"
+    ],
+    "array_int_a": [
+      "0x176b2a"
+    ],
+    "array_int_b": [
+      "0x176b3d"
+    ],
+    "array_lex": [
+      "0x176a43"
+    ],
+    "array_push:0": [
+      "0x176ce2"
+    ],
+    "array_push:1": [
+      "0x176cfc"
+    ],
+    "array_push_bool:0": [
+      "0x176cae"
+    ],
+    "array_push_bool:1": [
+      "0x176cc8"
+    ],
+    "array_push_drop:0": [
+      "0x176ba4"
+    ],
+    "array_push_drop:1": [
+      "0x176be4"
+    ],
+    "array_push_drop:2": [
+      "0x176c1c"
+    ],
+    "array_push_int:0": [
+      "0x176a70"
+    ],
+    "array_push_int:1": [
+      "0x176a8e"
+    ],
+    "array_push_int:2": [
+      "0x176aba"
+    ],
+    "array_push_name": [
+      "0x176c3c"
+    ],
+    "array_push_real": [
+      "0x176c6f"
+    ],
+    "array_push_string": [
+      "0x176c94"
+    ],
+    "dict_check_end": [
+      "0x176e0a"
+    ],
+    "dict_check_id_tok": [
+      "0x176e14"
+    ],
+    "dict_int_null:0": [
+      "0x1770a4"
+    ],
+    "dict_int_null:1": [
+      "0x1770c6"
+    ],
+    "dict_key": [
+      "0x176e6e"
+    ],
+    "dict_lex_int:0": [
+      "0x176fad"
+    ],
+    "dict_lex_int:1": [
+      "0x177074"
+    ],
+    "dict_lex_key": [
+      "0x176e02"
+    ],
+    "dict_lex_value": [
+      "0x176e89"
+    ],
+    "dict_new_value_error": [
+      "0x177144"
+    ],
+    "dict_put_int": [
+      "0x177043"
+    ],
+    "dict_val": [
+      "0x1770e2"
+    ],
+    "lex_byte": [
+      "0x1e2880",
+      "0x18c77b",
+      "0x113ca4",
+      "0x150f45",
+      "0x1dd1e4",
+      "0x1df5c5",
+      "0x1e5447",
+      "0x1e88c5",
+      "0x15bf50",
+      "0x1e71f3",
+      "0x1f22f5",
+      "0x1e19f9",
+      "0xfc01a",
+      "0x1487db",
+      "0x10b0fd",
+      "0x174e1e",
+      "0x20107f"
+    ],
+    "lex_hex_string:0": [
+      "0x15ce9e"
+    ],
+    "lex_hex_string:1": [
+      "0x15ceab"
+    ],
+    "lex_hex_string_err": [
+      "0x15ca23"
+    ],
+    "lex_hex_string_val:0": [
+      "0x15ce51"
+    ],
+    "lex_hex_string_val:1": [
+      "0x15ce9a"
+    ],
+    "lex_name_val": [
+      "0x15c983"
+    ],
+    "lex_number_int": [
+      "0x15c6c3"
+    ],
+    "lex_number_keyword": [
+      "0x15c658"
+    ],
+    "lex_number_real": [
+      "0x15c6bc"
+    ],
+    "lex_number_real_acro:0": [
+      "0x15c404"
+    ],
+    "lex_number_real_acro:1": [
+      "0x15c423"
+    ],
+    "lex_number_real_value": [
+      "0x10d0c2"
+    ],
+    "lex_number_val": [
+      "0x15c4c7",
+      "0x15c4ce"
+    ],
+    "lex_string": [
+      "0x15cd33"
+    ],
+    "lex_string_val:0": [
+      "0x15caa1"
+    ],
+    "lex_string_val:1": [
+      "0x15cac9"
+    ],
+    "lex_string_val:10": [
+      "0x15cbf5"
+    ],
+    "lex_string_val:11": [
+      "0x15ccc5"
+    ],
+    "lex_string_val:12": [
+      "0x15cd0f"
+    ],
+    "lex_string_val:13": [
+      "0x15cd28"
+    ],
+    "lex_string_val:2": [
+      "0x15cb69"
+    ],
+    "lex_string_val:4": [
+      "0x15cb7d"
+    ],
+    "lex_string_val:5": [
+      "0x15cb91"
+    ],
+    "lex_string_val:6": [
+      "0x15cba5"
+    ],
+    "lex_string_val:7": [
+      "0x15cbb9"
+    ],
+    "lex_string_val:8": [
+      "0x15cbcd"
+    ],
+    "lex_string_val:9": [
+      "0x15cbe1"
+    ],
+    "load_chapter_num": [
+      "0x8a19b"
+    ],
+    "load_page_num": [
+      "0x8a198"
+    ],
+    "new_indirect": [
+      "0x15f294"
+    ],
+    "new_indirect_val:0": [
+      "0x15f34a"
+    ],
+    "new_indirect_val:1": [
+      "0x15f354"
+    ],
+    "new_int": [
+      "0x15f051"
+    ],
+    "new_int_val": [
+      "0x15f093"
+    ],
+    "new_name": [
+      "0x15f1b3"
+    ],
+    "new_name_val": [
+      "0x15f22c"
+    ],
+    "new_real": [
+      "0x15f0a1"
+    ],
+    "new_real_val": [
+      "0x15f0e4"
+    ],
+    "new_string": [
+      "0x15f0f4"
+    ],
+    "parse_array": [
+      "0x17697d"
+    ],
+    "parse_dict": [
+      "0x176d50"
+    ],
+    "parse_ind_obj": [
+      "0x1772d1"
+    ],
+    "parse_ind_obj_byte:0": [
+      "0x177704"
+    ],
+    "parse_ind_obj_byte:1": [
+      "0x17771c"
+    ],
+    "parse_ind_obj_byte:2": [
+      "0x17777a"
+    ],
+    "parse_ind_obj_catch": [
+      "0x1777de"
+    ],
+    "parse_ind_obj_lex:0": [
+      "0x17734b"
+    ],
+    "parse_ind_obj_lex:1": [
+      "0x1773d0"
+    ],
+    "parse_ind_obj_lex:2": [
+      "0x17742e"
+    ],
+    "parse_ind_obj_lex:3": [
+      "0x177487"
+    ],
+    "parse_ind_obj_lex:4": [
+      "0x1775ab"
+    ],
+    "parse_ind_obj_lex:5": [
+      "0x177606"
+    ],
+    "parse_ind_obj_lex:6": [
+      "0x1776e4"
+    ],
+    "parse_ind_obj_peek": [
+      "0x17773e"
+    ],
+    "parse_new_xref_entry_gen": [
+      "0x18fcd0"
+    ],
+    "parse_new_xref_entry_num": [
+      "0x18fcdb"
+    ],
+    "parse_new_xref_entry_ofs": [
+      "0x18fcb6"
+    ],
+    "parse_new_xref_entry_type": [
+      "0x18fc9f"
+    ],
+    "parse_xref_entry_gen": [
+      "0x18f89d"
+    ],
+    "parse_xref_entry_num": [
+      "0x18f74d"
+    ],
+    "parse_xref_entry_offset": [
+      "0x18f7f0"
+    ],
+    "parse_xref_entry_type": [
+      "0x18f989"
+    ],
+    "parse_xref_len": [
+      "0x18f57f"
+    ],
+    "parse_xref_lex:0": [
+      "0x18fa05"
+    ],
+    "parse_xref_lex:1": [
+      "0x18fa42"
+    ],
+    "parse_xref_size_len": [
+      "0x18ee53"
+    ],
+    "parse_xref_size_tok:0": [
+      "0x18f046"
+    ],
+    "parse_xref_size_tok:1": [
+      "0x18f08a"
+    ],
+    "parse_xref_size_trailer": [
+      "0x18f0cf"
+    ],
+    "parse_xref_start": [
+      "0x18f561"
+    ],
+    "parse_xref_trailer": [
+      "0x18fa8e"
+    ],
+    "pdf_cache_obj_num": [
+      "0x192a72",
+      "0x192a8b"
+    ],
+    "pdf_lex": [
+      "0x15d222"
+    ],
+    "pdf_lex_eof:0": [
+      "0x15d27d"
+    ],
+    "pdf_lex_error:0": [
+      "0x15d2f4"
+    ],
+    "pdf_lex_val:0": [
+      "0x15d27d"
+    ],
+    "pdf_lex_val:1": [
+      "0x15d2b7"
+    ],
+    "pdf_lex_val:2": [
+      "0x15d2f4"
+    ],
+    "pdf_lex_val:3": [
+      "0x15d398"
+    ],
+    "pdf_lex_val:4": [
+      "0x15d31a"
+    ],
+    "pdf_lex_val:5": [
+      "0x15d375"
+    ],
+    "pdf_lex_val:6": [
+      "0x15d39f"
+    ],
+    "pdf_lex_val:7": [
+      "0x15d3a6"
+    ],
+    "pdf_lex_val:8": [
+      "0x15d3ad"
+    ],
+    "pdf_lex_val:9": [
+      "0x15d3b4"
+    ],
+    "process_stream_drop_args:0": [
+      "0x155b40"
+    ],
+    "process_stream_drop_args:1": [
+      "0x155bcc"
+    ],
+    "process_stream_drop_args:2": [
+      "0x155c20"
+    ],
+    "process_stream_drop_args:3": [
+      "0x155dcd"
+    ],
+    "process_stream_drop_args:4": [
+      "0x155b76"
+    ],
+    "process_stream_drop_last_arg": [
+      "0x155aa2"
+    ],
+    "process_stream_num": [
+      "0x17e8f4"
+    ],
+    "process_stream_push_stack:0": [
+      "0x155c89"
+    ],
+    "process_stream_push_stack:1": [
+      "0x155d00"
+    ],
+    "process_stream_push_stack:2": [
+      "0x155a69"
+    ],
+    "process_stream_set_args:0": [
+      "0x155b9b"
+    ],
+    "process_stream_set_args:1": [
+      "0x155bf0"
+    ],
+    "process_stream_set_args:2": [
+      "0x155c43"
+    ],
+    "process_stream_set_args:3": [
+      "0x155df8"
+    ],
+    "process_stream_set_name": [
+      "0x155c55"
+    ],
+    "process_stream_set_string": [
+      "0x155d70"
+    ],
+    "read_start_xref_missing": [
+      "0x18ebd5"
+    ],
+    "read_start_xref_offset": [
+      "0x18ea74"
+    ],
+    "read_start_xref_start": [
+      "0x18ea74"
+    ],
+    "repair_obj_encrypt": [
+      "0x20155a"
+    ],
+    "repair_obj_page": [
+      "0x2016e4"
+    ],
+    "repair_obj_root": [
+      "0x2015ec"
+    ],
+    "repair_obj_stmlen": [
+      "0x2019a7"
+    ],
+    "repair_obj_stmoff": [
+      "0x2017ec"
+    ],
+    "repair_obj_tok:0": [
+      "0x2013e7"
+    ],
+    "repair_obj_tok:1": [
+      "0x201885"
+    ],
+    "repair_obj_tok:2": [
+      "0x201a81"
+    ],
+    "repair_xref_encrypt": [
+      "0x20291d"
+    ],
+    "repair_xref_entry:0": [
+      "0x202df8"
+    ],
+    "repair_xref_entry:1": [
+      "0x202c1b"
+    ],
+    "repair_xref_entry:2": [
+      "0x202c3e"
+    ],
+    "repair_xref_entry:3": [
+      "0x202c5e"
+    ],
+    "repair_xref_entry:4": [
+      "0x202c7f"
+    ],
+    "repair_xref_free:0": [
+      "0x202f01"
+    ],
+    "repair_xref_free:1": [
+      "0x202ec9"
+    ],
+    "repair_xref_free:2": [
+      "0x202eea"
+    ],
+    "repair_xref_gen_clamp": [
+      "0x2026da"
+    ],
+    "repair_xref_id": [
+      "0x2029b1"
+    ],
+    "repair_xref_info": [
+      "0x202a5e"
+    ],
+    "repair_xref_list_gen": [
+      "0x202775"
+    ],
+    "repair_xref_list_index": [
+      "0x2027d3"
+    ],
+    "repair_xref_list_num": [
+      "0x202757"
+    ],
+    "repair_xref_list_ofs": [
+      "0x202792"
+    ],
+    "repair_xref_list_stm_len": [
+      "0x2027d0"
+    ],
+    "repair_xref_list_stm_ofs": [
+      "0x2027b0"
+    ],
+    "repair_xref_reset:0": [
+      "0x2024c3"
+    ],
+    "repair_xref_reset:1": [
+      "0x202ac2"
+    ],
+    "repair_xref_shift_gen_val": [
+      "0x202500"
+    ],
+    "repair_xref_shift_int": [
+      "0x2024e0"
+    ],
+    "repair_xref_stream_len": [
+      "0x202d56"
+    ],
+    "repair_xref_tok": [
+      "0x202407"
+    ],
+    "repair_xref_tok_eof": [
+      "0x2024a0"
+    ],
+    "repair_xref_tok_obj_repair": [
+      "0x2025b1"
+    ],
+    "start_xref_keyword": [
+      "0x18ea74"
+    ],
+    "start_xref_location": [
+      "0x18eba2"
+    ],
+    "start_xref_missing": [
+      "0x18ebd5"
+    ],
+    "stream_in_text_array": [
+      "0x1558fb"
+    ],
+    "test": [
+      "0x176e02"
+    ],
+    "token_from_keyword:0": [
+      "0x15cf15"
+    ],
+    "token_from_keyword:1": [
+      "0x15cf3a"
+    ],
+    "token_from_keyword:10": [
+      "0x15d070"
+    ],
+    "token_from_keyword:11": [
+      "0x15d0bb"
+    ],
+    "token_from_keyword:2": [
+      "0x15cf5b"
+    ],
+    "token_from_keyword:3": [
+      "0x15cf80"
+    ],
+    "token_from_keyword:4": [
+      "0x15cfa5"
+    ],
+    "token_from_keyword:5": [
+      "0x15cfca"
+    ],
+    "token_from_keyword:6": [
+      "0x15cfef"
+    ],
+    "token_from_keyword:7": [
+      "0x15d010"
+    ],
+    "token_from_keyword:8": [
+      "0x15d031"
+    ],
+    "token_from_keyword:9": [
+      "0x15d052"
+    ],
+    "token_from_keyword_keyword": [
+      "0x15d0c7",
+      "0x15d0cb"
+    ],
+    "token_keyword_val": [
+      "0x15d0aa"
+    ]
+  },
+  "version": "0.6"
+}

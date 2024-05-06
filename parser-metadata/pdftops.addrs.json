@@ -1,0 +1,285 @@
+{
+  "addrs": {
+    "array_end": [
+      "0x16929d"
+    ],
+    "array_end_eof": [
+      "0x169291"
+    ],
+    "array_start": [
+      "0x16919d"
+    ],
+    "construct_xref_end": [
+      "0x1942f0"
+    ],
+    "construct_xref_id": [
+      "0x193ad8"
+    ],
+    "construct_xref_start": [
+      "0x193a78"
+    ],
+    "copystr_call:0": [
+      "0x162345"
+    ],
+    "copystr_call:1": [
+      "0x1623cf"
+    ],
+    "decrypt_str_val": [
+      "0x169763",
+      "0x169769"
+    ],
+    "dict_end": [
+      "0x1694a3"
+    ],
+    "dict_end_eof": [
+      "0x16949e"
+    ],
+    "dict_key": [
+      "0x169407"
+    ],
+    "dict_key_not_name": [
+      "0x169383"
+    ],
+    "dict_start_obj": [
+      "0x169302"
+    ],
+    "dict_start_shift": [
+      "0x1692e5"
+    ],
+    "dict_value": [
+      "0x16945b"
+    ],
+    "dict_value_objerr": [
+      "0x16949e"
+    ],
+    "getobj_int": [
+      "0x16957d"
+    ],
+    "gfx_command_check_aborted": [
+      "0xfca01"
+    ],
+    "gfx_command_check_aborted_done": [
+      "0xfcc97"
+    ],
+    "gfx_command_not_aborted": [
+      "0xfca41"
+    ],
+    "gfx_display_new_parser": [
+      "0xfc5bb"
+    ],
+    "gfx_leftover_args": [
+      "0xfcd06"
+    ],
+    "gfx_save_arg": [
+      "0xfcbcc"
+    ],
+    "gfx_skip_arg": [
+      "0xfcc09"
+    ],
+    "int_frame_ref": [
+      "0x1695db"
+    ],
+    "int_frame_ret:0": [
+      "0x1697d5"
+    ],
+    "lex_string_val:0": [
+      "0x15d000"
+    ],
+    "lex_string_val:1": [
+      "0x15d50e"
+    ],
+    "linearization_new_parser": [
+      "0x16d318"
+    ],
+    "new_parser_id": [
+      "0x168ff5"
+    ],
+    "obj_bool_val": [
+      "0x162290"
+    ],
+    "obj_construct_id:0": [
+      "0x162266"
+    ],
+    "obj_construct_id:1": [
+      "0x162283"
+    ],
+    "obj_construct_id:10": [
+      "0x16238a"
+    ],
+    "obj_construct_id:11": [
+      "0x1623c2"
+    ],
+    "obj_construct_id:12": [
+      "0x1623f2"
+    ],
+    "obj_construct_id:13": [
+      "0x16240e"
+    ],
+    "obj_construct_id:14": [
+      "0x161b4e"
+    ],
+    "obj_construct_id:2": [
+      "0x1622ad"
+    ],
+    "obj_construct_id:3": [
+      "0x1622d9"
+    ],
+    "obj_construct_id:4": [
+      "0x162308"
+    ],
+    "obj_construct_id:5": [
+      "0x162338"
+    ],
+    "obj_construct_id:6": [
+      "0x162368"
+    ],
+    "obj_construct_id:7": [
+      "0x161a69"
+    ],
+    "obj_construct_id:8": [
+      "0x161add"
+    ],
+    "obj_construct_id:9": [
+      "0x161b8a"
+    ],
+    "obj_double_val": [
+      "0x1622e8"
+    ],
+    "obj_int_val": [
+      "0x1622ba"
+    ],
+    "parser_obj_id": [
+      "0x1690f6"
+    ],
+    "shift_inlineImg:0": [
+      "0x169cc8"
+    ],
+    "shift_inlineImg:1": [
+      "0x169d62"
+    ],
+    "simple_obj": [
+      "0x1697b2"
+    ],
+    "stream_end": [
+      "0x169528"
+    ],
+    "stream_end_err": [
+      "0x169539"
+    ],
+    "stream_start": [
+      "0x1694d9"
+    ],
+    "xref_construct_gen_val_write": [
+      "0x19416e"
+    ],
+    "xref_construct_num_val_write": [
+      "0x193e49"
+    ],
+    "xref_construct_obj_entry_offset": [
+      "0x19414a"
+    ],
+    "xref_fetch_cache:0": [
+      "0x19462a"
+    ],
+    "xref_fetch_cache:1": [
+      "0x19478f"
+    ],
+    "xref_fetch_failed": [
+      "0x194ce7"
+    ],
+    "xref_fetch_new_parser": [
+      "0x194903"
+    ],
+    "xref_fetch_obj:0": [
+      "0x194937"
+    ],
+    "xref_fetch_obj:1": [
+      "0x19496b"
+    ],
+    "xref_fetch_obj:2": [
+      "0x19499f"
+    ],
+    "xref_obj_new_parser:0": [
+      "0x19137e"
+    ],
+    "xref_obj_new_parser:1": [
+      "0x191748"
+    ],
+    "xref_read_end": [
+      "0x19272c"
+    ],
+    "xref_read_start": [
+      "0x19218e"
+    ],
+    "xref_read_table_end": [
+      "0x19313a"
+    ],
+    "xref_read_table_start": [
+      "0x19272c"
+    ],
+    "xref_stm_idx_start": [
+      "0x19370a"
+    ],
+    "xref_stm_section_gen:0": [
+      "0x19397a"
+    ],
+    "xref_stm_section_gen:1": [
+      "0x1939d3"
+    ],
+    "xref_stm_section_gen:2": [
+      "0x193a29"
+    ],
+    "xref_stm_section_offset:0": [
+      "0x19395e"
+    ],
+    "xref_stm_section_offset:1": [
+      "0x1939b7"
+    ],
+    "xref_stm_section_offset:2": [
+      "0x193a0d"
+    ],
+    "xref_table_add_entry": [
+      "0x192d05"
+    ],
+    "xref_table_entry_idx": [
+      "0x192ceb"
+    ],
+    "xref_table_entry_idx_alt": [
+      "0x192d87"
+    ],
+    "xref_table_err1": [
+      "0x1930ca"
+    ],
+    "xref_table_gen": [
+      "0x192c3f"
+    ],
+    "xref_table_getobj:0": [
+      "0x193ce8"
+    ],
+    "xref_table_off": [
+      "0x192b8c"
+    ],
+    "xref_table_section_start": [
+      "0x1928aa"
+    ],
+    "xref_table_section_start_alt": [
+      "0x192d8e"
+    ],
+    "xref_table_trailer": [
+      "0x192ea3"
+    ],
+    "xref_table_type:0": [
+      "0x192c86"
+    ],
+    "xref_table_type:1": [
+      "0x192c99"
+    ],
+    "xref_xref_fetch_ref_gen1": [
+      "0x194575"
+    ],
+    "xref_xref_fetch_ref_num1": [
+      "0x19456f"
+    ]
+  },
+  "version": "0.6"
+}
